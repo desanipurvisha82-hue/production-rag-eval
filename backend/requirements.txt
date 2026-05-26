@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-openai
+langchain-core
+chromadb
+pypdf
+sentence-transformers
+ollama
+streamlit
+fastapi
+uvicorn
+python-dotenv
+ragas
+deepeval
+pandas
+numpy
+tiktokenlangchain-text-splitters
